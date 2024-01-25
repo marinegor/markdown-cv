@@ -1,91 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Egor Marin: CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+open-source developere with PhD in structural biology
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="marinegor@fastmail.com">marinegor@fastmail.com</a>
+| <a href="github.com/marinegor">github</a>
+| <a href="twitter.com/egor__marin">twitter</a>
+| <a href="[github.com/marinegor](https://scholar.google.com/citations?user=FJbv9XcAAAAJ)">google scholar</a>
 </div>
 
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
+Searching for a job
 
-### Specialized in
+### Coding skills & activities
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Bag of words: python, numpy, sklearn, scipy, pytorch, pytest, MDAnalysis, docker, ansible, bash, Ubuntu, HPC, SLURM.
 
+- administrated park of ~15 workstations and servers with ~40 users, managed ~200 Tb of research data.
+- participated in data science competitions
+- contributed to opensource ([reciprocalspaceship]([url](https://github.com/rs-station/reciprocalspaceship)): wrote parser for custom format, [MDAnalysis]([url](https://github.com/MDAnalysis/mdanalysis/)): introduced process-based parallelization to the library (see [PR]([url](https://github.com/marinegor/mdanalysis/tree/feature/dask-0))).
 
-### Research interests
+### Non-coding skills
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Moscow Institute of Physics and Technology.__
+BSc in applied mathematics and physics, summa cum laude.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017-2019`
+__Moscow Institute of Physics and Technology.__
+MSc in applied mathematics and physics, with specialization in biophysics and structural biology.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2019-2023`
+__University of Groningen.__
+PhD.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2024 -->
 
 
