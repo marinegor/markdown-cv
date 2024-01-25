@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Egor Marin: CV
+title: Egor Marin's CV
 ---
 # Isaac Newton
 open-source developere with PhD in structural biology
